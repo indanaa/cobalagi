@@ -1,1 +1,3 @@
-print('halloooo indanaa')
+"ini program pasca oop"
+
+print('Halo puput, ini angelina')
