@@ -1,3 +1,4 @@
 "ini program pasca oop"
 
-print('Halo puput, ini angelina')
+print('Halo, ini perubahan Alif')
+print('Halo mbak Indana')
