@@ -1,3 +1,4 @@
-"ini program pasca oop"
+123
 
-print('Halo puput, ini angelina')
+print('Halo , ini anti')
+
